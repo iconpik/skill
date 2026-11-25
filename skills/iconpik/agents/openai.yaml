@@ -1,0 +1,4 @@
+interface:
+  display_name: "iconPik"
+  short_description: "Find verified brand logos and UI icons with iconPik"
+  default_prompt: "Use $iconpik to find suitable brand logos and UI icons and integrate them into this project."
