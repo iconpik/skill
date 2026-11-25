@@ -16,7 +16,7 @@ Try: "Use iconpik to add a GitHub logo and an outline search icon to my project.
 
 The skill resolves real catalog entries and asset variants before generating framework code. It includes references for brand assets, UI icons, and React/Vue/Svelte/HTML integration, plus an optional read-only Python 3 search helper with no third-party dependencies.
 
-This repository contains only the distributable skill, not the iconPik application or full icon collection. The ZIP download at https://www.iconpik.com/skills/iconpik.zip remains available for manual installation.
+This repository contains only the distributable skill, not the iconPik application or full icon collection.
 
 ## License
 
