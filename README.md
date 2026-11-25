@@ -5,8 +5,10 @@ Find and integrate verified [iconPik](https://www.iconpik.com) brand logos, clou
 ## Install
 
 ```sh
-npx skills add mrdoing/iconpik-skill --skill iconpik
+npx skills add iconpik/skill
 ```
+
+[View on skills.sh](https://skills.sh/iconpik/skill/iconpik).
 
 Supports agents recognized by the skills CLI. Select your agent during installation.
 
